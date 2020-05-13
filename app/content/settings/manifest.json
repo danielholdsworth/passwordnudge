@@ -1,6 +1,6 @@
 {
-  "name": "Password:Nudge",
-  "shortName": "Password:Nudge",
+  "name": "Password Nudge",
+  "shortName": "Password Nudge",
   "description": "A password reset reminder, straight to your inbox.",
   "themeColor": "#FDD692",
   "backgroundColor": "#EC7357",

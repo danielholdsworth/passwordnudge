@@ -2,17 +2,17 @@
   <section class="home">
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
-        <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
+        <div v-html="$md.render(welcomeText)" class="home__welcome markdown font-mono" />
 
-        <div class="mb-12 xl:mb-0">
-          <h4 v-if="isSignedUp">All Done! You will now start recieving reminders!</h4>
+        <div class="mb-12 xl:mb-0 font-mono">
+          <h4 v-if="isSignedUp">A perfect time to check your email inbox.</h4>
 
           <form
             v-else
             @submit.prevent="handleSubmit"
             name="signups"
             netlify
-            class="flex items-center border-b border-b-2 border-blue-400 py-2"
+            class="flex items-center border-b border-b-2 border-black-400 py-2"
           >
             <input
               ref="emailInput"

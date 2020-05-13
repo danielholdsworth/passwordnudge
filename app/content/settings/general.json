@@ -1,9 +1,9 @@
 {
   "title": "Home",
   "titleTemplate": "| Password:Nudge",
-  "welcomeText": "# Welcome to Password:Nudge!\n\nSimply enter your email below and you will be emailed a reminder every 3 monthes!",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "welcomeText": "# Welcome to Password Nudge\n\nHow do we reach you?",
+  "logo": "/images/uploads/pn_logo.svg",
+  "icon": "/images/uploads/pn_logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A 3-monthly password reset reminder, straight to your inbox.",
   "seoMetaImage": ""

@@ -5,7 +5,7 @@
         <svg
           baseProfile="tiny"
           height="32px"
-          fill="black"
+          fill="white"
           version="1.1"
           viewBox="0 0 24 24"
           width="24px"
@@ -37,6 +37,6 @@ export default class Footer extends Vue {}
 
 <style lang="scss">
 .footer {
-  background-color: #754f44;
+  background-color: #904e69;
 }
 </style>
