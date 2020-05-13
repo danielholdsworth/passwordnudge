@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
-  "backgroundColor": "#ffffff",
+  "name": "Password:Nudge",
+  "shortName": "Password:Nudge",
+  "description": "A password reset reminder, straight to your inbox.",
+  "themeColor": "#FDD692",
+  "backgroundColor": "#EC7357",
   "lang": "en"
 }

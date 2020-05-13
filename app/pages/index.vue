@@ -5,7 +5,7 @@
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 
         <div class="mb-12 xl:mb-0">
-          <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
+          <h4 v-if="isSignedUp">All Done! You will now start recieving reminders!</h4>
 
           <form
             v-else
@@ -34,7 +34,7 @@
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <img class="rounded shadow-xl" src="https://source.unsplash.com/random/720x400" />
+        <img src="../static/images/uploads/sign-up.png" />
       </div>
     </div>
   </section>

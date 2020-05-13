@@ -1,11 +1,11 @@
 <template>
   <footer class="footer -mx-4 md:mx-0">
     <div class="container mx-auto pb-6 flex justify-center">
-      <a href="https://github.com/Gomah/bluise">
+      <a href="https://github.com/danielholdsworth">
         <svg
           baseProfile="tiny"
           height="32px"
-          fill="white"
+          fill="black"
           version="1.1"
           viewBox="0 0 24 24"
           width="24px"
@@ -37,6 +37,6 @@ export default class Footer extends Vue {}
 
 <style lang="scss">
 .footer {
-  background-color: $bluise;
+  background-color: #754f44;
 }
 </style>
