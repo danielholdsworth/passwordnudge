@@ -1,10 +1,10 @@
 {
   "title": "Home",
-  "titleTemplate": "| Password:Nudge",
+  "titleTemplate": "| Password Nudge",
   "welcomeText": "# Welcome to Password Nudge\n\nSign up to our mailing list to recieve password reset reminders, straight to your inbox, every 3 monthes.\n\nHow do we reach you?",
   "logo": "/images/uploads/pn_logo.svg",
   "icon": "/images/uploads/pn_logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A 3-monthly password reset reminder, straight to your inbox.",
+  "seoDescription": "Get a password reset reminder every 90 days, straight to your inbox.",
   "seoMetaImage": ""
 }
