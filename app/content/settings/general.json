@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": "| Password:Nudge",
-  "welcomeText": "# Welcome to Password Nudge\n\nHow do we reach you?",
+  "welcomeText": "# Welcome to Password Nudge\n\nSign up to our mailing list to recieve password reset reminders, straight to your inbox, every 3 monthes.\n\nHow do we reach you?",
   "logo": "/images/uploads/pn_logo.svg",
   "icon": "/images/uploads/pn_logo.png",
   "loadingColor": "#0b3765",

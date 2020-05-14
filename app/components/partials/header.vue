@@ -2,7 +2,9 @@
   <header class="flex items-center py-4 md:py-8">
     <div class="header__logo">
       <nuxt-link to="/">
-        <h1 class="font-mono">PN</h1>
+        <element class="markdown">
+          <h1 class="font-mono title-font">PN</h1>
+        </element>
       </nuxt-link>
     </div>
 
