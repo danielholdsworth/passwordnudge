@@ -34,7 +34,11 @@
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <img src="../static/images/uploads/sign-up.png" />
+        <img
+          src="../static/images/uploads/sign-up.png"
+          title="Illustration by https://icons8.com/ouch/"
+          alt="Illustration by https://icons8.com/ouch/"
+        />
       </div>
     </div>
   </section>
