@@ -17,6 +17,10 @@ body {
   color: #1a202c;
 }
 
+.page__content {
+  text-align: center;
+}
+
 .page-enter-active,
 .page-leave-active {
   transition: opacity 0.5s;
